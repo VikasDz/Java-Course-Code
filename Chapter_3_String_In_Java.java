@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Chapter_3_String_In_Java {
     public static void main(String[] args) {
 
-//        String name = new String(  "Satya");
+//        String name = new String("Satya");
 //        System.out.print("The Name is : ");
 //        System.out.println(name);
 //        int a = 55;

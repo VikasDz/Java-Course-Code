@@ -2,7 +2,6 @@ package com.CodeWithMe;
 
 class BaseI{
     public int x;
-
     public int getX() {
         return x;
     }

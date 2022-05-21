@@ -31,10 +31,10 @@ public class Chapter_8_NewJavaClass {
 
         // Printing the Attributes
        //  Satya.printDetails();
-      // Jhon.printDetails();
-//        Satya.getSalary();
-        int salary = Satya.getSalary();
-        System.out.println(salary);
+//       Jhon.printDetails();
+        Satya.getSalary();
+//        int salary = Satya.getSalary();
+//        System.out.println(salary);
 
 //        System.out.println(Satya.id);
 //        System.out.println(Satya.name);

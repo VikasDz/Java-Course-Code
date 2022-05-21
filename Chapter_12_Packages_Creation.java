@@ -1,7 +1,7 @@
 package com.CodeWithMe;
 
 import java.util.Scanner;
-//import java.util.*;
+import java.util.*;
 public class Chapter_12_Packages_Creation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

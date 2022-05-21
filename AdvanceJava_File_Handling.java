@@ -9,7 +9,7 @@ public class AdvanceJava_File_Handling {
     public static void main(String[] args) {
         // Code to create a new file
         /*
-        File myFile = new File("cwh111file.txt");
+        File myFile = new File("Satya.txt");
         try {
             myFile.createNewFile();
         } catch (IOException e) {
@@ -20,7 +20,7 @@ public class AdvanceJava_File_Handling {
 
         // Code to write to a file
         try {
-            FileWriter fileWriter = new FileWriter("cwh111file.txt");
+            FileWriter fileWriter = new FileWriter("Satya.txt");
             fileWriter.write("This is our first file from this java course\nOkay now bye");
             fileWriter.close();
         } catch (IOException e) {
@@ -28,7 +28,7 @@ public class AdvanceJava_File_Handling {
         }
 
         // Reading a file
-        File myFile = new File("cwh111file.txt");
+        File myFile = new File("Satya.txt");
         try {
             Scanner sc = new Scanner(myFile);
             while(sc.hasNextLine()){
@@ -41,13 +41,14 @@ public class AdvanceJava_File_Handling {
         }
         */
         // Deleting a file
-        File myFile = new File("cwh111file.txt");
+        File myFile = new File("Satya.txt");
         if(myFile.delete()){
             System.out.println("I have deleted: " + myFile.getName());
         }
         else{
             System.out.println("Some problem occurred while deleting the file");
         }
+
 
 
     }

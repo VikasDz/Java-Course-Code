@@ -30,11 +30,11 @@ class ChildOfDerived extends  Derived1{
 }
 public class Chapter_10_Constructors_inInheritance {
     public static void main(String[] args) {
-        // Base1 b = new Base1();
-        // Derived1 d = new Derived1();
+//         Base1 b = new Base1(5);
+         Derived1 d = new Derived1();
         // Derived1 d = new Derived1(14, 9);
         // ChildOfDerived cd = new ChildOfDerived();
-        ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
+//        ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
     }
 }
 

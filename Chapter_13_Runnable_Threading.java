@@ -182,28 +182,6 @@ class MyThreadRunnable2 implements Runnable{
         System.out.println("I am a thread 2 not a threat 2");
         System.out.println("I am a thread 2 not a threat 2");
         System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
-        System.out.println("I am a thread 2 not a threat 2");
     }
 }
 
